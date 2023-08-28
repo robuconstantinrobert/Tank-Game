@@ -1,1 +1,1 @@
-Sound files for the game
+Sound files for the game. In order to use the background sound you must dearchive the file!
